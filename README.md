@@ -4,7 +4,7 @@
 
 <hr />
 
-<p align="center"> <a href="https://twitter.com/bryan_6243" target="_blank">Twitter</a> | <a href="https://www.instagram.com/brx_6243/"  target="_blank">Instagram</a> | <a href="https://www.facebook.com/bryan6243/"  target="_blank">Facebook</a> </p>
+<p align="center"> <a href="https://twitter.com/bryan_6243" >Twitter</a> | <a href="https://www.instagram.com/brx_6243/"  >Instagram</a> | <a href="https://www.facebook.com/bryan6243/"  >Facebook</a> </p>
                                                        
 
 ## Hey What's up👋
@@ -18,7 +18,7 @@
 - 🔭 Je suis passionné par <b>le développement front-end, la Technologie en général, la photographie ansi que la lecture</b>
 - 📖 J'apprend <b>JavaScript et ses Frameworks</b>
 - 🔍 Je suis à recherche d'un stage afin d'approfondir mes connaissances et acquérir une expérience professionnelle en entreprise 
-- 💬 Je suis plus actif sur <a href="https://www.instagram.com/brx_6243/" target="_blank">Instagram</a>
+- 💬 Je suis plus actif sur <a href="https://www.instagram.com/brx_6243/" >Instagram</a>
 
 <hr />
 
