@@ -5,7 +5,19 @@
 
 <hr />
 
-<p align="center"> <a href="https://twitter.com/bryan_6243" >Twitter</a> | <a href="https://www.instagram.com/brx_6243/"  >Instagram</a> | <a href="https://www.facebook.com/bryan6243/"  >Facebook</a> </p>
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/bruxx6243/">
+    <img src="https://user-images.githubusercontent.com/81830567/183908896-59884d48-1353-4e1c-8a5c-92bf4e6fb6de.png" alt="Linkdin">
+  </a> 
+  <a href="https://twitter.com/bryan_6243" >
+    <img src="https://user-images.githubusercontent.com/81830567/183909662-531a654f-4c51-4fb5-a7d7-b2a6f94b4b95.png" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/brx_6243/"  >
+    <img src="https://user-images.githubusercontent.com/81830567/183909658-4c3c713c-3099-4a3c-91ff-2cc38bf3ee53.png" alt="Instagram">
+  </a> 
+
+</p>
                                                        
 
 ## Hey What's up👋
