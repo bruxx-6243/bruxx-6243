@@ -1,6 +1,7 @@
 
-
-![Fariol Blondeau => bruxx_](https://user-images.githubusercontent.com/81830567/155017738-f40ca30f-ac48-4cbf-8a92-7eff9ef5d19d.png)
+<a href="https://bruxx.netlify.app/">
+  <img src="https://user-images.githubusercontent.com/81830567/155017738-f40ca30f-ac48-4cbf-8a92-7eff9ef5d19d.png" alt="Bruxx Dev">
+</a>
 
 <hr />
 
