@@ -50,22 +50,20 @@
 
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&layout=compact)](https://github.com/anuraghazra/github-readme-stats" height="226">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&theme=bear&langs_count=5">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&theme=bear&langs_count=5" >
 </a>
-<a href="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&count_private=true&line_height=30&theme=bear">
-  <img src="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&count_private=true&line_height=30&theme=bear">
+<a href="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&count_private=true&line_height=40&theme=bear">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&count_private=true&line_height=40&theme=bear">
 </a>
-<a href="https://app.daily.dev/bruxx_6243">
-  <img src="https://api.daily.dev/devcards/e93748f8208745baa217897cd002d00d.png?r=a1v" width="180" height="226" alt="Fariol Blondeau's Dev Card"/>
-</a>
+
 
 
 
 
 
 <a href="https://bruxx-6243.wrapped.run">
-  <img src="https://user-images.githubusercontent.com/81830567/183891365-231efc15-0edc-4d92-9413-e205dd1dbbed.png" alt="Wrapped  Run" width="916" height="500">
+  <img src="https://user-images.githubusercontent.com/81830567/183891365-231efc15-0edc-4d92-9413-e205dd1dbbed.png" alt="Wrapped  Run" >
 </a>
 
 <h4 align="center">Okay Let's Go Build The World 🌍</h4>
