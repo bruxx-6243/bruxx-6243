@@ -1,7 +1,10 @@
 
 <a href="https://bruxx.netlify.app/">
-  <img src="https://user-images.githubusercontent.com/81830567/155017738-f40ca30f-ac48-4cbf-8a92-7eff9ef5d19d.png" alt="Bruxx Dev">
+  <img src="https://user-images.githubusercontent.com/81830567/201989037-41a90623-e8f9-46c9-98e7-63dcb2f02813.png" alt="BRUXX DEV 2.3 Collection">
 </a>
+
+
+
 
 <hr />
 
