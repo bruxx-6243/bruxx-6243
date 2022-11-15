@@ -25,7 +25,6 @@
 
 ## Hey What's up👋
 ### Je m'appelle Fariol Blondeau, je suis Développeur Front Jr.
-##### Mon nom de code ``` bruxx => brx ``` c'est pourquoi vous voyez ce ``` <b/> ``` dans mon logo ansi que les cercles qui marquent ma <b>progression</b>
 
 
 - 💻 <b>Développeur Frontend Jr</b>
