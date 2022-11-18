@@ -22,16 +22,11 @@
                                                        
 
 ## Hey What's up👋
-### Je m'appelle Fariol Blondeau, je suis Développeur Front Jr.
+#### My name is Fariol Blondeau student at the Insitute of Mathematics, Information Technologies and Natural Sciences 💻🔬🧪
 
 
-- 💻 <b>Développeur Frontend Jr</b>
-- 👨🏼‍🎓 Je suis étudiant en <b><a href="http://ivanovo.ac.ru/">Mathematiques et Sciences informatique</a></b>
-- 📍 Je suis actuellement en <a href="https://fr.wikipedia.org/wiki/Russie">Russie </a>
-- 🔭 Je suis passionné par <b>le développement front-end, la Technologie en général, la photographie ansi que la lecture</b>
-- 📖 J'apprend <b>JavaScript et ses Frameworks</b>
-- 🔍 Je suis à recherche d'un stage afin d'approfondir mes connaissances et acquérir une expérience professionnelle en entreprise 
-- 💬 Je suis plus actif sur <a href="https://www.instagram.com/brx_6243/" >Instagram</a>
+<h1 align="center">🧬 BRUXX DEV 🧬</h1>
+
 
 <hr />
 
