@@ -24,6 +24,8 @@
 ## Hey What's up👋
 #### My name is Fariol Blondeau student at the Insitute of Mathematics, Information Technologies and Natural Sciences 💻🔬🧪
 
+<p></p>
+
 
 <h1 align="center">🧬 BRUXX DEV 🧬</h1>
 
@@ -40,25 +42,16 @@
 <h3 align="left">⏳ Learning:</h3>
 <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <a href="https://raw.githubusercontent.com/bruxx-6243/BruxxCodeLog/main/logo/bruxx/Untitled.png"></a></p>
 
-<hr>
+
+
+<p>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&theme=bear&langs_count=5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&theme=bear&langs_count=5" >
+  </a>
+</p>
 
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&theme=bear&langs_count=5">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&theme=bear&langs_count=5" >
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&count_private=true&line_height=40&theme=bear">
-  <img src="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&count_private=true&line_height=40&theme=bear">
-</a>
-
-
-
-
-
-
-<a href="https://bruxx-6243.wrapped.run">
-  <img src="https://user-images.githubusercontent.com/81830567/183891365-231efc15-0edc-4d92-9413-e205dd1dbbed.png" alt="Wrapped  Run" >
-</a>
 
 <h4 align="center">Okay Let's Go Build The World 🌍</h4>
 <p align="center">
