@@ -24,7 +24,7 @@
                                                        
 
 ## Hey What's up👋
-#### My name is Fariol Blondeau student at the Insitute of Mathematics, Information Technologies and Natural Sciences 💻🔬🧪
+#### My name is Fariol Blondeau student at the Insitute of Mathematics, Information Technologies and Natural Sciences and I'm also a Frontend Web Developper 💻🔬🧪
 
 <p></p>
 
