@@ -1,6 +1,6 @@
 <p >
    <a href="https://bruxx.netlify.app/">
-    <img src="https://user-images.githubusercontent.com/81830567/201993499-da6b080d-dd10-4d7d-b81d-498d248011b9.png" alt="BRUXX DEV 2.3 Collection">
+    <img src="https://user-images.githubusercontent.com/81830567/235617166-5c876297-cb0c-462d-a322-d3f56e3a2c8c.png" alt="BRUXX DEV 2.3 Collection">
   </a>
 </p>
 
