@@ -24,6 +24,8 @@
 ![NextJS](https://img.shields.io/badge/NextJS-FFF?style=for-the-badge&logo=vercel&logoColor=000)
 ![Astro](https://img.shields.io/badge/Astro-orange?style=for-the-badge&logo=astro&logoColor=000)
 
+<br />
+
 ## 🛠️ Tools
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
