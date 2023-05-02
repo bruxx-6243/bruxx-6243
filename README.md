@@ -1,12 +1,12 @@
 <p >
    <a href="https://bruxx.netlify.app/">
-    <img src="https://user-images.githubusercontent.com/81830567/235617166-5c876297-cb0c-462d-a322-d3f56e3a2c8c.png" alt="BRUXX DEV 2.3 Collection">
+    <img src="./cover.svg">
   </a>
 </p>
 
 <hr />
 
-## Hello World👋
+## Hello World 🌍👋
 
 <p align="center"> My name is <strong><a href="https://bruxx.netlify.app/">
 <brx>Fariol Blondeau</brx>
@@ -16,17 +16,20 @@
 <br/>
 <br/>
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJS-242424?&style=for-the-badge&logo=react&logoColor=0cbaff)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJS-242424?&style=for-the-badge&logo=react&logoColor=0cbaff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2589BD?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![NextJS](https://img.shields.io/badge/NextJS-FFF?style=for-the-badge&logo=vercel&logoColor=000)
 ![Astro](https://img.shields.io/badge/Astro-orange?style=for-the-badge&logo=astro&logoColor=000)
+
+## 🛠️ Tools
+
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-b668ff?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
