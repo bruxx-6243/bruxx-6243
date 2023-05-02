@@ -1,8 +1,4 @@
-<p >
-   <a href="https://bruxx.netlify.app/">
-    <img src="./cover.svg">
-  </a>
-</p>
+<img src="./cover.svg">
 
 <hr />
 
