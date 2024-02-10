@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Fariol Blondeau!](https://github.com/bruxx-6243/)
+## Hi there 👋, I'm [Fariol Blondeau!](https://fariolblondeau.vercel.app/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bryan_6243) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fariolblondeau) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/brx_6243/)
 
