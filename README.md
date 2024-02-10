@@ -13,13 +13,9 @@ You can find me between all those [contributors](https://github.com/codewithvoid
 
 Feel free to connect with [me](https://github.com/bruxx-6243/) for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/fariolblondeau" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="200px" ></a>
+<div align="right">
+  <a href="https://www.buymeacoffee.com/fariolblondeau" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="200px" ></a>
+</div>
 
 <img align="right" height="250" width="375" alt="" src="undraw_Developer_activity_re_39tg.png" />
 
