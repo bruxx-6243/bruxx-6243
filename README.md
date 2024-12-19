@@ -4,18 +4,14 @@
 
 ### Glad to see you here! &nbsp;
 
-Graduate student 🎓 in computer science at the [University State of Ivanovo](http://ivanovo.ac.ru/about_the_university/faculty/7155/) in Russia.
+Software Developer, graduate in computer science at Russia's [University State of Ivanovo](http://ivanovo.ac.ru/about_the_university/faculty/7155/).
 
 Welcome to my slice of the internet 🍕.
-I am an enthusiastic web developer with a focus on frontend development, with a strong foundation in Javascript and React. I've contributed to some open source projects like [Webncyclopaedia](https://github.com/Webncyclopaedia) and [AskDevs](https://github.com/codewithvoid/AskDevs).
+I am an enthusiastic software developer focusing on front-end development, with a strong foundation in Javascript and React. I've contributed to some open-source projects like [Webncyclopaedia](https://github.com/Webncyclopaedia) and [AskDevs](https://github.com/codewithvoid/AskDevs).
 
 You can find me between all those [contributors](https://github.com/codewithvoid/AskDevs?tab=readme-ov-file#-team).
 
-Feel free to connect with [me](https://github.com/bruxx-6243/) for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-<div align="right">
-  <a href="https://www.buymeacoffee.com/fariolblondeau" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="200px" ></a>
-</div>
+Feel free to connect with [me](https://fariolblondeau.dev) for all things tech or to say hello! Let's shape the future of tech together. 🌟
 
 <img align="right" height="250" width="375" alt="" src="undraw_Developer_activity_re_39tg.png" />
 
