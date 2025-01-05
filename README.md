@@ -17,7 +17,7 @@ Feel free to connect with [me](https://fariolblondeau.dev) for all things tech o
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, React, NextJs, Astro, etc.
+- 🛠 &nbsp; I’m currently working with TS, React, NextJs, Astro, etc.
 - 🚀 &nbsp; I’m currently exploring Prompt Engineering, NodeJS.
 - 💬 &nbsp; Ask me anything [here](https://www.linkedin.com/in/fariolblondeau)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS true `[] != []` 🤣.
