@@ -2,7 +2,10 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bryan_6243) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fariolblondeau) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/brx_6243/)
 
+[![committers.top badge](https://user-badge.committers.top/congo_brazzaville_private/bruxx-6243.svg)](https://user-badge.committers.top/congo_brazzaville_private/bruxx-6243)
+
 ### Glad to see you here! &nbsp;
+
 
 Software Developer, graduate in computer science at Russia's [University State of Ivanovo](http://ivanovo.ac.ru/about_the_university/faculty/7155/).
 
