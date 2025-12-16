@@ -51,7 +51,7 @@ Feel free to connect with [me](https://fariolblondeau.dev) for all things tech o
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruxx-6243&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruxx-6243" />
 </details>
 
 #
