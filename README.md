@@ -48,24 +48,7 @@ I’ve contributed to open-source projects such as **Webncyclopaedia** and **Ask
 **Databases & Tools**
 - PostgreSQL, Qdrant  
 - Git, Linux, Docker  
-- SQL & data modeling  
-
----
-
-### 📊 GitHub Stats
-
-<details>
-  <summary><b>⚡ GitHub Overview</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&exclude_repo=KNN-Image-Classification&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>🔥 GitHub Streak</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruxx-6243" />
-</details>
+- SQL & data modeling
 
 ---
 
