@@ -36,7 +36,8 @@ I’ve contributed to open-source projects such as **Webncyclopaedia** and **Ask
 - React, Next.js, Astro  
 
 **Backend**
-- Node.js, Nest.js, Hono  
+- Node.js, Nest.js, Hono
+- Python FastAPI, Flask  
 - Java Spring Boot  
 - REST APIs, Authentication, Payments  
 
