@@ -1,63 +1,82 @@
-## Hi there 👋, I'm [Fariol Blondeau!](https://fariolblondeau.vercel.app/)
+## Hi 👋, I'm Fariol Blondeau
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bryan_6243) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fariolblondeau) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/brx_6243/)
+**AI-Driven Full-Stack Software Engineer** with **5+ years of professional experience**, specializing in modern web systems, backend architecture, and applied AI.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://fariolblondeau.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fariolblondeau)
+[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bryan_6243)
 
 [![committers.top badge](https://user-badge.committers.top/congo_brazzaville_private/bruxx-6243.svg)](https://user-badge.committers.top/congo_brazzaville_private/bruxx-6243)
 [![wakatime](https://wakatime.com/badge/user/09962542-ac52-4f3f-a168-99d1a1e32636.svg)](https://wakatime.com/@09962542-ac52-4f3f-a168-99d1a1e32636)
 
-### Glad to see you here! &nbsp;
+---
 
+### 👨‍💻 About Me
 
-Software Developer, graduate in computer science at Russia's [University State of Ivanovo](http://ivanovo.ac.ru/about_the_university/faculty/7155/).
+I’m a **Software Engineer** with a degree in **Computer Science** from **Ivanovo State University (Russia)** and over **five years of hands-on experience** building production-grade applications.
 
-Welcome to my slice of the internet 🍕.
-I am an enthusiastic software developer focusing on front-end development, with a strong foundation in Javascript and React. I've contributed to some open-source projects like [Webncyclopaedia](https://github.com/Webncyclopaedia) and [AskDevs](https://github.com/codewithvoid/AskDevs).
+My background started in **frontend engineering**, evolved into **full-stack systems**, and is now focused on **AI-driven products**, particularly **Computer Vision** and **backend-centric architectures**.
 
-You can find me between all those [contributors](https://github.com/codewithvoid/AskDevs?tab=readme-ov-file#-team).
+I’ve contributed to open-source projects such as **Webncyclopaedia** and **AskDevs**, and I enjoy building systems that are **scalable, maintainable, and business-ready**.
 
-Feel free to connect with [me](https://fariolblondeau.dev) for all things tech or to say hello! Let's shape the future of tech together. 🌟
+---
 
-<img align="right" height="250" width="375" alt="" src="undraw_Developer_activity_re_39tg.png" />
+### 🔍 Current Focus
 
-### Talking about Personal Stuff:
+- **Computer Vision**: Object detection & image recognition using **YOLO** and **Roboflow**
+- **AI-Integrated Applications**: Bridging ML models with real-world APIs and products
+- **Backend Engineering**: Designing robust services with **Node.js** and **Java Spring Boot**
+- **System Design**: Clean architecture, scalability, and performance
 
-- 🛠 &nbsp; I’m currently working with TS, React, NextJs, Astro, etc.
-- 🚀 &nbsp; I’m currently exploring Prompt Engineering, NodeJS.
-- 💬 &nbsp; Ask me anything [here](https://www.linkedin.com/in/fariolblondeau)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS true `[] != []` 🤣.
-- 📫 &nbsp; Reach me out: blondeau.nbif@gmail.com.
+---
 
-### My Absolute Favorites:
+### 🧠 Technical Stack
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+**Frontend**
+- JavaScript / TypeScript  
+- React, Next.js, Astro  
 
-### Languages and Tools:
+**Backend**
+- Node.js, Express, Hono  
+- Java Spring Boot  
+- REST APIs, Authentication, Payments  
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code> <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code> <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+**AI & Data**
+- Computer Vision (YOLO, Roboflow)  
+- Model integration & inference pipelines  
 
-### Projects and Dev Stuffs:
+**Databases & Tools**
+- PostgreSQL, MongoDB  
+- Git, Linux, Docker  
+- SQL & data modeling  
+
+---
+
+### 📊 GitHub Stats
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
+  <summary><b>⚡ GitHub Overview</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruxx-6243&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxx-6243&exclude_repo=KNN-Image-Classification&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
+  <summary><b>🔥 GitHub Streak</b></summary>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruxx-6243" />
 </details>
 
-#
+---
+
+### 📫 Contact
+
+- Email: **blondeau.nbif@gmail.com**
+- Portfolio: **https://fariolblondeau.dev**
+- LinkedIn: **linkedin.com/in/fariolblondeau**
+
+---
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+  <b>⭐ If you find my work useful, feel free to star a repository.</b>
 </div>
