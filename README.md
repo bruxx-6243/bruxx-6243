@@ -2,7 +2,6 @@
 
 **AI-Driven Full-Stack Software Engineer** with **5+ years of professional experience**, specializing in modern web systems, backend architecture, and applied AI.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://fariolblondeau.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fariolblondeau)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bryan_6243)
 
@@ -37,7 +36,7 @@ I’ve contributed to open-source projects such as **Webncyclopaedia** and **Ask
 - React, Next.js, Astro  
 
 **Backend**
-- Node.js, Express, Hono  
+- Node.js, Nest.js, Hono  
 - Java Spring Boot  
 - REST APIs, Authentication, Payments  
 
@@ -46,7 +45,7 @@ I’ve contributed to open-source projects such as **Webncyclopaedia** and **Ask
 - Model integration & inference pipelines  
 
 **Databases & Tools**
-- PostgreSQL, MongoDB  
+- PostgreSQL, Qdrant  
 - Git, Linux, Docker  
 - SQL & data modeling  
 
