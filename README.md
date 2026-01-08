@@ -27,27 +27,6 @@ My background started in **frontend engineering**, evolved into **full-stack sys
 
 ---
 
-### 🚀 Selected Projects & Packages
-
-- **Published npm Packages**
-  - Designed and maintained **two npm packages** focused on improving developer productivity and backend integration.
-  - Emphasis on clean APIs, documentation, and real-world usability.
-
-- **TalentFlow**
-  - An **AI-powered talent & workflow platform** integrating backend services with intelligent automation.
-  - Focused on scalability, data flow, and production-ready architecture.
-
-- **LangChain-based RAG System**
-  - Built a **hybrid Retrieval-Augmented Generation system** combining vector search and structured retrieval.
-  - Implemented caching, retrieval routing, and API-driven inference pipelines.
-
-- **Medical Computer Vision (Ongoing)**
-  - Currently training a **computer vision model for cancer-related image recognition**.
-  - Focus on dataset preparation, model training, evaluation, and safe deployment practices.
-
-> Most projects are designed as **production-grade systems**, not demos — emphasizing maintainability, performance, and real use cases.
-
-
 ### 🧠 Technical Stack
 
 **Frontend**
