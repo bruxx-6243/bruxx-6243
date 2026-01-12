@@ -54,7 +54,7 @@ My background started in **frontend engineering**, evolved into **full-stack sys
 
 - Email: **blondeau.nbif@gmail.com**
 - Portfolio: **https://fariolblondeau.dev**
-- LinkedIn: **linkedin.com/in/fariolblondeau**
+- LinkedIn: **[linkedin.com/in/fariolblondeau](https://www.linkedin.com/in/fariolblondeau/)**
 
 ---
 
