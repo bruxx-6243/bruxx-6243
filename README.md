@@ -39,22 +39,6 @@ I build **AI matching and data intelligence systems** that combine embeddings, v
 
 ### 🧠 Technical Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,astro,tailwind,nodejs,nestjs,django,fastapi&perline=11" alt="Languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,githubactions,cloudflare,vercel,netlify,vitest,jest&perline=10" alt="Databases, cloud and tooling" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
-  <img src="https://img.shields.io/badge/Apify-97D700?style=for-the-badge&logoColor=white" alt="Apify" />
-  <img src="https://img.shields.io/badge/FastEmbed-222222?style=for-the-badge&logoColor=white" alt="FastEmbed" />
-  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
-</p>
-
 **AI & Data**
 - LLM integration, embeddings (FastEmbed), semantic search and deduplication
 - Qdrant (certified), vector indexing and retrieval
