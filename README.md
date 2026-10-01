@@ -65,11 +65,11 @@ I build **AI matching and data intelligence systems** that combine embeddings, v
 
 ### 📊 GitHub Activity
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruxx-6243&theme=github_dark" alt="Profile details" />
 </p>
 
-<p align="center">
+<p>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bruxx-6243&theme=github_dark" alt="GitHub stats" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bruxx-6243&theme=github_dark" alt="Most committed languages" />
 </p>
